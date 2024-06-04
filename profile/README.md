@@ -1,4 +1,4 @@
-# Spot The Sugar
+# SpotTheSugar!
 
 SpotTheSugar! is a platform that provide accessible education and practical tools to identify sugar content in a packaged foods and beverages with one scan. We plan to help the user control their dietary preferences and health goals to offer tailored suggestions. Additionally, the app will provide access to educational resources such as guidelines on sugar consumption limits. Users will be able to set and track their sugar intake goals, fostering accountability and motivation.	
 
